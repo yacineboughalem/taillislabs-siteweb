@@ -139,6 +139,12 @@
             color: $c-text;
         }
 
+        ul {
+            list-style: square;
+            padding-left: 24px;
+            margin: 16px 0;
+        }
+
         img {
             border-radius: 16px;
             padding: 8px;

@@ -5208,6 +5208,11 @@ img {
   line-height: 32px;
   color: #23252f;
 }
+.news__area--body ul {
+  list-style: square;
+  padding-left: 24px;
+  margin: 16px 0;
+}
 .news__area--body img {
   border-radius: 16px;
   padding: 8px;
