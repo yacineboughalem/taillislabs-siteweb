@@ -1,10 +1,10 @@
 @extends('frontend.layouts.app')
 
-@section('title', 'Bitcoin DeFi')
+@section('title', 'Software artistry at its finest')
 
 @section('metatags')
 <meta name="description"
-content="Deep Lake is a blockchain API platform which provides the tools for developers to easily plug into Layer 1 Bitcoin and utilize native BTC in smart contracts." />
+content="Taillis Labs est une entreprise de conseil en transformation numérique et de création de solutions digitales qui répondent parfaitement à vos problématiques d’entreprise et qui vous aide à faire face à tous les défis qui peuvent apparaître au cours de votre évolution numérique." />
 <meta name="keywords"
 content="" />
 <meta name="copyright" content="deeplake.finance" />
