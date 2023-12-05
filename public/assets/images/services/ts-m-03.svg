@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="275" height="276" viewBox="0 0 275 276">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.031" x2="0.503" y2="0.969" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff843b"/>
+      <stop offset="1" stop-color="#ff2d4c"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <ellipse id="desktop-MASK-SHAPE" cx="137.5" cy="138" rx="137.5" ry="138" transform="translate(0.283)" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="1.055" x2="0.003" y2="0.917" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fd3bff"/>
+      <stop offset="1" stop-color="#3700c4"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_34697" data-name="Group 34697" transform="translate(-0.283)">
+    <g id="svg_xml_base64_PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzYwIiB2aWV3Qm94PSIwIDAgMzYwIDM2MCI_CiAgICA8ZGVmcz4KICA" data-name="svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjAiIGhlaWdodD0iMzYwIiB2aWV3Qm94PSIwIDAgMzYwIDM2MCI+CiAgICA8ZGVmcz4KICA" transform="translate(0)" clip-path="url(#clip-path)">
+      <rect id="desktop-bg" width="276.953" height="277.826" rx="138.476" transform="translate(-0.715 -0.268)" fill="url(#linear-gradient-2)"/>
+      <path id="desktop-bg-oval-2" d="M353.959,314.34c-81.505,23.392-165.073,15.588-200.822-61.007-36.207-77.578-27.952-168.12,48.651-201.11,68.068-29.314,253.2,51.386,268.047,129.988S435.463,290.948,353.959,314.34Z" transform="translate(-179.229 37.157)" fill="none" stroke="#fff" stroke-width="2" fill-rule="evenodd" opacity="0.2"/>
+      <path id="desktop-bg-oval-1" d="M380.314,475.728c-114.12,32.752-248.586,28.354-281.181-85.42S53.074,141.318,167.252,108.725c107.957-30.819,354.523,71.947,375.306,182S494.433,442.975,380.314,475.728Z" transform="translate(-269.733 -28.95)" fill="#fff" fill-rule="evenodd" opacity="0.2"/>
+    </g>
+    <g id="svg_xml_base64_PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3MCIgaGVpZ2h0PSI3NSIgdmlld0JveD0iMCAwIDcwIDc1Ij4KPGcgZmlsbD0ibm9uZSIgZml" data-name="svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3MCIgaGVpZ2h0PSI3NSIgdmlld0JveD0iMCAwIDcwIDc1Ij4KPGcgZmlsbD0ibm9uZSIgZml" transform="translate(67.762 64.755)">
+      <path id="Path_36744" data-name="Path 36744" d="M69.774,0V0ZM34.887,9.25,49.16,33.717ZM9.348,34.528l24.72,14.124ZM0,69.054H0ZM9.348,103.58l24.72-14.124Zm120.852,0L105.48,89.456Zm9.348-34.528h0ZM130.2,34.524,105.48,48.65,130.2,34.526ZM104.66,9.25,90.387,33.717ZM50.743,119.273H88.8m-38.06,12.553H88.8m-38.06-62.77a18.93,18.93,0,0,1,19.03-18.833M60.26,78.467l9.513,9.417,9.513-9.417m-9.513,9.417v21.973" fill="none" stroke="#ffbca8" stroke-width="2" fill-rule="evenodd"/>
+      <path id="Path_36745" data-name="Path 36745" d="M63.491,125.612h-3.17l-3.174,3.14H44.461l-3.174-3.14h-3.17M66.661,91.088V87.944a20.788,20.788,0,0,1,5.971-14.912c5.993-6.048,9.888-13.53,9.888-22.75a31.716,31.716,0,0,0-63.428,0c0,9.22,3.9,16.7,9.888,22.75a20.784,20.784,0,0,1,5.969,14.914v3.14" transform="translate(18.967 18.77)" fill="none" stroke="#fff" stroke-width="2" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

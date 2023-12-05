@@ -1,0 +1,49 @@
+.taillis-footer-area {
+
+  .row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+
+    @media (max-width: 700px) {
+      flex-wrap: wrap;
+    }
+  }
+
+  &--item {
+    width: 33%;
+    a {
+      text-decoration: none;
+      color: #fff;
+    }
+
+  
+
+    @media (max-width: 700px) {
+      width: 100%;
+      ul {
+        text-align: center;
+      }
+    }
+  }
+  
+  .logo {
+    width: 33%;
+    text-align: center;
+    @media (max-width: 700px) {
+      width: 100%;
+      text-align: center;
+      padding-bottom: 20px;
+    }
+  }
+  .copyright {
+    width: 33%;
+    text-align: right;
+    color: white;
+    @media (max-width: 700px) {
+      width: 100%;
+      text-align: center;
+    }
+  }
+}

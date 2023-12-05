@@ -1,0 +1,144 @@
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background: hsla(0, 0%, 0%, 0.5);
+    opacity: 0;
+    pointer-events: none;
+    z-index: 15;
+    transition: 0.5s ease;
+}
+
+.overlay.active {
+    opacity: 1;
+    pointer-events: all;
+}
+
+.sidebar {
+    background: $c-white;
+    position: fixed;
+    top: 0;
+    left: -100%;
+    bottom: 0;
+    width: 40%;
+    min-width: 33%;
+    padding: 16px;
+    overflow-y: scroll;
+    overscroll-behavior: contain;
+    visibility: hidden;
+    transition: 0.5s ease;
+    z-index: 20;
+
+    @media (max-width: 991px) {
+        width: 60%;
+    }
+
+    @media (max-width: 767px) {
+        width: 80%;
+    }
+
+    @media (max-width: 600px) {
+        min-width: 90%;
+    }
+
+    .logo {
+        height: 40px;
+    }
+
+    &--header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 100%;
+    }
+
+    .menu {
+        display: flex;
+        flex-direction: column;
+        gap: 16px;
+        list-style: none;
+        justify-content: space-evenly;
+        margin-top: 40px;
+
+        li {
+            text-align: left;
+            position: relative;
+
+            i {
+                display: none;
+            }
+
+            a {
+                text-decoration: none;
+                display: flex;
+                align-items: center;
+                width: 100%;
+                line-height: 36px;
+                font-size: clamp(16px, 3vw, 20px);
+                text-align: left;
+                font-weight: 600;
+                // background-color: $c-background;
+                // background-image: linear-gradient(to left, rgba($c-background, .0),rgba($c-background, 1));
+
+                padding: 8px 16px;
+                color: $c-dark;
+
+                sup {
+                  // background-color: rgba($c-main, .2);
+                  padding: 0px;
+                  border-radius: 4px;
+                  color: $c-main;
+                  font-size: 12px;
+                  margin-left: 8px;
+                }
+            }
+
+            
+            &:hover {
+                a {
+                    color: $c-main;
+                }
+
+                &::after {
+                    position: absolute;
+                    z-index: 1;
+                    width: 4px;
+                    height: 100%;
+                    border-radius: 8px;
+                    top: 0;
+                    bottom: 0;
+                    left: 0px;
+                    margin: auto;
+                    background-color: rgba($c-main, 1);
+                    content: "";
+                }
+            }
+        }
+
+        .active {
+           
+                color: $c-main;
+
+            &::after {
+                position: absolute;
+                z-index: 1;
+                width: 4px;
+                height: 100%;
+                border-radius: 8px;
+                top: 0;
+                bottom: 0;
+                left: 0px;
+                margin: auto;
+                background-color: rgba($c-main, 1);
+                content: "";
+            }
+        }
+    }
+}
+
+.sidebar.active {
+    left: 0;
+    visibility: visible;
+}

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="397" height="630" viewBox="0 0 397 630">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.704" y1="0.03" x2="0.283" y2="1.065" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6236ff"/>
+      <stop offset="1" stop-color="#b620e0"/>
+    </linearGradient>
+  </defs>
+  <rect id="Mask" width="397" height="630" rx="14" fill="url(#linear-gradient)"/>
+</svg>

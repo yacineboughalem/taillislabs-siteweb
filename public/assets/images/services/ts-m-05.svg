@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="277" height="276" viewBox="0 0 277 276">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="-0.096" x2="0.503" y2="1.096" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#586df9"/>
+      <stop offset="1" stop-color="#374ef2"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <ellipse id="mob-MASK" cx="138.5" cy="138" rx="138.5" ry="138" transform="translate(-0.463)" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="0.639" y1="0" x2="0.639" y2="1.278" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="mob-icon" transform="translate(0.463)" clip-path="url(#clip-path)">
+    <rect id="mob-bg" width="275" height="276" rx="137.5" transform="translate(0.537)" fill="url(#linear-gradient-2)"/>
+    <g id="mob-stroke-leaf" transform="translate(70.418 75.209)">
+      <path id="mob-stroke-leaf-1" d="M24.4,0C12.74,13.987-8.241,69.159,3.415,77.706s18.65.777,26.42,6.217-5.439,29.528.777,41.961,18.65,10.879,25.643,17.872.777,24.089,5.439,32.637,13.21,5.439,19.427,8.548,9.325,15.541,20.2,11.656,3.885-15.541,5.439-21.758,12.433-12.433,10.879-23.312-24.089-15.541-24.089-25.643,13.987-6.217,16.318-21.757S81.9,74.6,78.791,62.165s28.752-13.987,22.535-31.083S69.466,16.318,64.8,4.662" transform="translate(117.796 197.341) rotate(180)" fill="none" stroke="#5267f5" stroke-width="1" fill-rule="evenodd"/>
+    </g>
+    <g id="page" transform="translate(69.978 68.209)">
+      <path id="Path_36773" data-name="Path 36773" d="M53.083,77.033l-9.7,9.727,9.7,9.727" transform="translate(27.723 52.668)" fill="none" stroke="#fff" stroke-width="2" fill-rule="evenodd"/>
+      <path id="Path_36774" data-name="Path 36774" d="M50.115,140.766h54.949a9.713,9.713,0,0,0,9.7-9.727V72.673M33.956,20.793l9.7-9.727-9.7-9.727" transform="translate(20.993 -1.338)" fill="none" stroke="#fff" stroke-width="2" fill-rule="evenodd"/>
+      <path id="Path_36775" data-name="Path 36775" d="M66.532,7.015H11.583a9.713,9.713,0,0,0-9.7,9.727V75.108" transform="translate(-1.886 2.712)" fill="none" stroke="#fff" stroke-width="2" fill-rule="evenodd"/>
+      <path id="Path_36776" data-name="Path 36776" d="M13.205,104.566H110.17v-84.3H13.2Zm9.7-74.577h6.463m3.233,0h6.463M13.2,39.717H110.17" transform="translate(6.19 12.164)" fill="none" stroke="#ffbca8" stroke-width="2" fill-rule="evenodd"/>
+      <path id="Path_36777" data-name="Path 36777" d="M34.209,86.2H66.532V47.286H34.209ZM76.228,47.286h32.321M76.228,60.257h32.321M76.228,73.227H95.619m42.021-25.94V40.8m0-6.485V27.83M1.886,86.2V79.712m0-6.485V66.743" transform="translate(-1.886 17.563)" fill="none" stroke="#fff" stroke-width="2" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

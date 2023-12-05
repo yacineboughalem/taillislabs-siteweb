@@ -1,0 +1,89 @@
+@font-face {
+    font-family: 'Mark';
+    src: local('Mark-Bold'),
+        url('/assets/fonts/Mark-Bold.woff2') format('woff2'),
+        url('/assets/fonts/Mark-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mark';
+    src: local('Mark-Bold-Italic'),
+        url('/assets/fonts/Mark-Bold-Italic.woff2') format('woff2'),
+        url('/assets/fonts/Mark-Bold-Italic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mark';
+    src: local('Mark-Black'),
+        url('/assets/fonts/Mark-Black.woff2') format('woff2'),
+        url('/assets/fonts/Mark-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mark';
+    src: local('Mark-Heavy-Italic'),
+        url('/assets/fonts/Mark-Heavy-Italic.woff2') format('woff2'),
+        url('/assets/fonts/Mark-Heavy-Italic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mark';
+    src: local('Mark-Medium-Italic'),
+        url('/assets/fonts/Mark-Medium-Italic.woff2') format('woff2'),
+        url('/assets/fonts/Mark-Medium-Italic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mark';
+    src: local('Mark-Light'),
+        url('/assets/fonts/Mark-Light.woff2') format('woff2'),
+        url('/assets/fonts/Mark-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mark';
+    src: local('Mark-Heavy'),
+        url('/assets/fonts/Mark-Heavy.woff2') format('woff2'),
+        url('/assets/fonts/Mark-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mark Pro';
+    src: local('Mark Pro'), local('MarkPro'),
+        url('/assets/fonts/MarkPro.woff2') format('woff2'),
+        url('/assets/fonts/MarkPro.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mark';
+    src: local('Mark-Medium'),
+        url('/assets/fonts/Mark-Medium.woff2') format('woff2'),
+        url('/assets/fonts/Mark-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}

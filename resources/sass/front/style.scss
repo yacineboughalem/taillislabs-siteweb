@@ -1,0 +1,36 @@
+// @import "~bootstrap/scss/bootstrap";
+
+//Setup
+@import "partials/variables";
+@import "partials/spacing";
+
+
+// Base styles
+@import "base/base";
+
+//Component Styles
+@import "components/container";
+@import "components/header";
+@import "components/sidebar";
+@import "components/services";
+@import "components/slick";
+@import "components/showcases";
+@import "components/verticals";
+@import "components/inputs";
+@import "components/banner";
+@import "components/contact";
+@import "components/footer";
+@import "components/breadcrumb";
+@import "components/grid";
+@import "components/heading";
+@import "components/buttons";
+@import "components/blog";
+@import "components/clients";
+
+// @import "components/slick";
+// @import "components/banner";
+// @import "components/inputs";
+
+// Pages Style
+@import "screens/home";
+

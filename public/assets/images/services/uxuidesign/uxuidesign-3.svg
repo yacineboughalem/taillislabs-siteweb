@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="356" height="360" viewBox="0 0 356 360">
+  <g id="Group_33882" data-name="Group 33882" transform="translate(-11253 1829)">
+    <g id="Group_33880" data-name="Group 33880" transform="translate(-197 -134)">
+      <g id="Group_33878" data-name="Group 33878" transform="translate(-513 -2600)">
+        <rect id="process-01" width="356" height="360" rx="7" transform="translate(11963 905)" fill="#1d1e27"/>
+      </g>
+    </g>
+    <g id="Group_33881" data-name="Group 33881" transform="translate(-908 -3503)">
+      <path id="Path_36710" data-name="Path 36710" d="M109.132,235.264A84.132,84.132,0,1,0,25,151.132,84.132,84.132,0,0,0,109.132,235.264Z" transform="translate(12185.821 1742.777)" fill="none" stroke="#cb4f34" stroke-width="2" fill-rule="evenodd"/>
+      <path id="Path_36711" data-name="Path 36711" d="M155.132,235.264A84.132,84.132,0,1,0,71,151.132,84.131,84.131,0,0,0,155.132,235.264Z" transform="translate(12227.777 1742.777)" fill="none" stroke="#d0d0d0" stroke-width="2" fill-rule="evenodd"/>
+      <path id="Path_36712" data-name="Path 36712" d="M132.132,193.264A84.132,84.132,0,1,0,48,109.132,84.132,84.132,0,0,0,132.132,193.264Z" transform="translate(12206.799 1704.469)" fill="none" stroke="#909090" stroke-linecap="round" stroke-width="2" stroke-dasharray="8 9" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

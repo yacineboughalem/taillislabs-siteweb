@@ -1,0 +1,35 @@
+#drag-area{
+    height : 200px;
+    width : 100%;
+    position: relative;
+    overflow: hidden;
+    outline: none;
+    border-style: dotted !important;
+}
+#drag-area::before{
+    content: '';
+    height : 200px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background : #f8f8f8;
+    background-image: url("../soft-ui-dashboard/assets/img/illustrations/undraw_Upload_re_pasx.svg");
+    background-size : auto 40% ;
+    background-position: top 20% center;
+    background-repeat: no-repeat;
+}
+#drag-area::after{
+    content: attr(placeholder) ;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    top: 60%;
+    left: 0;
+    right: 0;
+    text-align: center;
+}
+#drag-area:not([placeholder])::after{
+    content: "Drag & drop images or click to select" ;
+}

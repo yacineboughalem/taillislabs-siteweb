@@ -1,0 +1,183 @@
+.heading__primary {
+    width: 80%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 16px;
+    margin-bottom: 32px;
+    position: relative;
+    margin: auto;
+    @media (max-width: 991px) {
+        width: 100%;
+    }
+
+    h2,
+    h1 {
+        color: $c-white;
+        font-size: clamp(32px, 4vw, 56px);
+        position: relative;
+        font-weight: 700;
+        text-align: left;
+        margin-bottom: 8px;
+        line-height: clamp(40px, 4vw, 64px);
+        z-index: 1;
+        text-align: center;
+
+        .color {
+            // text-shadow: -1px 0 $c-second, 0 1px $c-second, 1px 0 $c-second, 0 -1px $c-second;
+            color: $c-main;
+        }
+    }
+
+    p {
+        font-size: clamp(14px, 3vw, 18px);
+        color: $c-white;
+        line-height: 32px;
+        font-weight: 400;
+        margin-bottom: 0;
+        text-align: center;
+    }
+}
+
+.heading__primary_w {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 16px;
+    margin-bottom: 32px;
+    position: relative;
+
+    h2,
+    h1 {
+        color: $c-white;
+        font-size: clamp(40px, 4vw, 64px);
+        position: relative;
+        word-spacing: 0;
+        font-weight: 800;
+        text-align: left;
+        margin-bottom: 8px;
+        line-height: clamp(56px, 3vw, 72px);
+        letter-spacing: 4px;
+        z-index: 1;
+
+        span {
+            // text-shadow: -1px 0 $c-white, 0 1px $c-white, 1px 0 $c-white, 0 -1px $c-white;
+            color: transparent;
+            -webkit-text-stroke: 1px $c-white;
+        }
+    }
+}
+
+.heading__white {
+    width: 100%;
+    margin-bottom: 32px;
+    position: relative;
+
+    h2,
+    h1 {
+        color: $c-white;
+        letter-spacing: 4px;
+        font-size: clamp(40px, 4vw, 64px);
+        position: relative;
+        word-spacing: 0;
+        font-weight: 800;
+        text-align: left;
+        margin-bottom: 8px;
+        line-height: clamp(56px, 3vw, 72px);
+        z-index: 1;
+
+        span {
+            // text-shadow: -1px 0 $c-white, 0 1px $c-second, 1px 0 $c-second, 0 -1px $c-second;
+            color: transparent;
+            -webkit-text-stroke: 1px $c-white;
+        }
+    }
+
+    p {
+        color: $c-white;
+        font-size: clamp(18px, 4vw, 32px);
+        line-height: clamp(32px, 3vw, 40px);
+        margin-top: 16px;
+        font-weight: 300;
+    }
+}
+
+.heading__second {
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 16px;
+    margin-bottom: 32px;
+    position: relative;
+
+    .tag {
+        background-color: rgba($c-gray, 0.1);
+        border-radius: 4px;
+        padding: 4px 8px;
+        text-align: center;
+    }
+
+    h2,
+    h1 {
+        color: $c-dark;
+        --minFontSize: 20px;
+        --maxFontSize: 32px;
+        --scaler: 4vw;
+        font-size: clamp(var(--minFontSize), var(--scaler), var(--maxFontSize));
+        position: relative;
+        word-spacing: 0;
+        font-weight: 800;
+        text-align: left;
+        margin-bottom: 8px;
+        line-height: clamp(32px, 3vw, 48px);
+        z-index: 1;
+
+        span {
+            color: $c-main;
+        }
+
+        &::after {
+            content: "";
+            background-image: linear-gradient(to left, $c-main, $c-second);
+            height: 4px;
+            width: 60px;
+            position: absolute;
+            left: 0;
+            bottom: -16px;
+        }
+    }
+
+    p {
+        color: $c-text;
+        margin-top: 16px;
+        text-align: left;
+    }
+}
+
+.p__main {
+    font-size: clamp(14px, 4vw, 18px);
+    font-weight: 400;
+    color: $c-text;
+    padding-bottom: 8px;
+    text-align: justify;
+    line-height: clamp(24px, 3vw, 32px);
+}
+
+.p__white {
+  font-size: clamp(14px, 4vw, 16px);
+  font-weight: 300;
+  color: $c-white;
+  padding-bottom: 8px;
+  text-align: justify;
+  line-height: clamp(20px, 3vw, 32px);
+}
+
+.text-white {
+    color: $c-white !important;
+}
+
+.text-black {
+    color: $c-text !important;
+}

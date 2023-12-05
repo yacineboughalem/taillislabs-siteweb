@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="350.119" height="280.097" viewBox="0 0 350.119 280.097">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.652" y1="0.18" x2="0.289" y2="0.82" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffcf5f"/>
+      <stop offset="1" stop-color="#ff814c"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <path id="dsgn-MASK" d="M330.5,258c57.667,54.448,65,158-10.5,202.5S164,494.5,94,449-4.875,321.638,66,253,272.833,203.552,330.5,258Z" transform="translate(0 -184.51)" fill="url(#linear-gradient)" clip-rule="evenodd"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="1" y1="0" x2="0.002" y2="1" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Group_34945" data-name="Group 34945" transform="translate(-3084 8190.979)">
+    <g id="svg_xml_base64_PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDBweCIgaGVpZ2h0PSIzMzFweCIgdmlld0JveD0iMCAwIDQwMCAzMzEiPgogICAgPGRlZnM" data-name="svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MDBweCIgaGVpZ2h0PSIzMzFweCIgdmlld0JveD0iMCAwIDQwMCAzMzEiPgogICAgPGRlZnM" transform="translate(3058.924 -8215.373)" clip-path="url(#clip-path)">
+      <rect id="dsgn-back" width="400" height="331" fill="url(#linear-gradient-2)"/>
+      <path id="dsgn-pencil" d="M11,.552l1.085,1.755.949,1.561C18.68,13.245,21.5,19.638,21.5,23.132a10.49,10.49,0,0,1-4.439,8.575l-.269.184-.292.185V39.5H5.5V32.076l-.3-.19a10.491,10.491,0,0,1-4.681-8.1L.5,23.456l0-.324c0-3.494,2.82-9.886,8.466-19.264l.949-1.561Zm.5,2.715V19.541a3,3,0,1,1-1,0V3.267L9.84,4.355C4.383,13.42,1.6,19.646,1.5,22.951l0,.181A9.493,9.493,0,0,0,5.988,31.2l.262.157.25.144V38.5h9V31.5l.25-.144A9.495,9.495,0,0,0,20.5,23.132c0-3.256-2.781-9.544-8.34-18.777Z" transform="translate(91.364 70.08) rotate(45)" fill="#fff"/>
+      <path id="dsgn-bg-oval-2" d="M529.228,299.48c-41.557,81.608-112.327,115.608-196.1,113.686s-213.547-97.672-171.991-179.28C183.648,189.673,437.2,64.463,510.214,110.633S570.784,217.873,529.228,299.48Z" transform="translate(301.712 -364.075) rotate(47)" fill="#fff" fill-rule="evenodd" opacity="0.2"/>
+      <path id="dsgn-bg-oval-1" d="M406.916,319.639c-35.674,70.057-98.53,133.19-168.348,97.6s-141.277-90.1-105.6-160.152c19.328-37.955,194.945-139.2,257.628-99.561S442.591,249.582,406.916,319.639Z" transform="translate(299.518 -296.889) rotate(47)" fill="none" stroke="#fff" stroke-width="1" fill-rule="evenodd" opacity="0.249"/>
+      <path id="dsgn-Pen" d="M11.5-16.5V-134.142l-5.5-8.8-5.5,8.8V-16.5ZM6-131.5a13.64,13.64,0,0,0-4.5.78v-3.138l4.5-7.2,4.5,7.2v3.137A13.646,13.646,0,0,0,6-131.5Zm-.5,114h-4V-129.655l.124-.047a12.853,12.853,0,0,1,3.875-.787Zm3,0h-2V-130.238l.087-.007.164,0a10.692,10.692,0,0,1,1.358.119l.391.058Zm2,0h-1V-129.989c.292.085.584.18.877.287l.124.048Zm1,5v-3H.5v3Zm-1-1h-9v-1h9ZM6-.5a5.5,5.5,0,0,0,5.5-5.279L11.5-6v-5.5H.5V-6A5.5,5.5,0,0,0,6-.5Zm0-1A4.5,4.5,0,0,1,1.5-5.788L1.5-6v-4.5h9V-6A4.5,4.5,0,0,1,6.427-1.52L6.212-1.5Z" transform="matrix(0.438, -0.899, 0.899, 0.438, 340.634, 128.236)" fill="#fff"/>
+      <g id="svg_xml_base64_PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3MiIgaGVpZ2h0PSI3MSIgdmlld0JveD0iMCAwIDcyIDcxIj4KPGcgZmlsbD0ibm9uZSIgZml" data-name="svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3MiIgaGVpZ2h0PSI3MSIgdmlld0JveD0iMCAwIDcyIDcxIj4KPGcgZmlsbD0ibm9uZSIgZml" transform="translate(125.14 153.813)">
+        <path id="Path_36756" data-name="Path 36756" d="M72.38,107.54c0,2.137-3.551,5.139-5.853,5.852-.245.946.361,2.714,1.162,5.263,2.2,7.013-2.663,12.564-9.076,12.564-4.6,0-30.044-7.586-33.868-12.824L14.7,103.143m18.215,20.113-3.169,13.735M74.352,69c3.788,5.129,9.063,12.148,9.063,15.5,0,4.824-5.848,5.2-9.974,5.813.9,4.83,4.686,7.149,3.878,8.558s-13.391,3.359-20.848,3.359M14.7,1A84.038,84.038,0,0,1,45.533,7.442C66.816,16.21,74.1,37.8,73.88,49.413" transform="translate(11.912 -1)" fill="none" stroke="#fff" stroke-width="2" fill-rule="evenodd"/>
+        <path id="Path_36757" data-name="Path 36757" d="M15.782,55.911H57.17C60.5,61.823,69,67.734,77.864,67.734S92.647,54.186,92.647,50c0-1.6.1-2.957,0-5.912H18.737C5.929,44.085,1,50.982,1,61.823v5.912m97.559-8.869,38.433,26.608V8.609L95.6,38.172" transform="translate(-1 6.173)" fill="rgba(0,0,0,0)" stroke="#fff" stroke-width="2" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>
