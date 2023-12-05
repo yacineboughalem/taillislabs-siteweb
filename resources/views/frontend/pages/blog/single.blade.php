@@ -4,7 +4,7 @@
     <meta name="description"
         content="{{ $post->meta_description !== null ? $post->meta_description : htmlspecialchars(trim(substr(strip_tags($post->description), 0, 150))) }}" />
     <meta name="keywords" content="{{ $post->meta_keywords !== null ? $post->meta_keywords : 'Space, Casablanca' }}" />
-    <meta name="copyright" content="deeplake.finance">
+    <meta name="copyright" content="taillislabs.com">
     <meta name="url" content="{{ route('showBlog', [$post->slug]) }}">
     <meta name="identifier-URL" content="{{ route('showBlog', [$post->slug]) }}">
 
@@ -12,7 +12,7 @@
     <meta property="og:image" itemprop="image/*" content="{{ asset('/storage/app/public/posts/' . $post->image) }}" />
     <meta property="og:image:width" content="256" />
     <meta property="og:image:height" content="256" />
-    <meta property="og:site_name" content="deeplake.finance" />
+    <meta property="og:site_name" content="taillislabs.com" />
 
 @endsection
 @section('title', $post->meta_title !== null ? $post->meta_title : $post->title)

@@ -6,7 +6,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <!-- Basic -->
 
-    <meta name="author" content="deeplake.finance">
+    <meta name="author" content="taillislabs.com">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <!-- Mobile Metas -->

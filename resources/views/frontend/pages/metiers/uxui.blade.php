@@ -2,6 +2,14 @@
 
 
 @section('metatags')
+    <meta name="description"
+    content="Taillis Labs est une entreprise de conseil en transformation numérique et de création de solutions digitales qui répondent parfaitement à vos problématiques d’entreprise et qui vous aide à faire face à tous les défis qui peuvent apparaître au cours de votre évolution numérique." />
+    <meta name="keywords" content="" />
+    <meta name="copyright" content="taillislabs.com" />
+    <meta name="url" content="taillislabs.com" />
+    <meta name="identifier-URL" content="taillislabs.com" />
+
+
     <meta itemprop="image" content="https://taillislabs.com/logo2.png" />
     <meta property="og:image" itemprop="image/*" content="https://taillislabs.com/logo2.png" />
     <meta property="og:image:width" content="256" />

@@ -2,6 +2,13 @@
 
 
 @section('metatags')
+    <meta name="description"
+        content="Taillis Labs est une entreprise de conseil en transformation numérique et de création de solutions digitales qui répondent parfaitement à vos problématiques d’entreprise et qui vous aide à faire face à tous les défis qui peuvent apparaître au cours de votre évolution numérique." />
+    <meta name="keywords" content="" />
+    <meta name="copyright" content="taillislabs.com" />
+    <meta name="url" content="taillislabs.com" />
+    <meta name="identifier-URL" content="taillislabs.com" />
+
     <meta itemprop="image" content="https://taillislabs.com/logo2.png" />
     <meta property="og:image" itemprop="image/*" content="https://taillislabs.com/logo2.png" />
     <meta property="og:image:width" content="256" />
@@ -30,7 +37,8 @@
 
             <div class="media__center">
                 <img src="/assets/images/digital-development-consulting.svg" alt=""
-                    class="width-100-100 p-top-80 wow animate__animated animate__zoomInUp" data-wow-duration="1.5s" data-wow-delay=".2">
+                    class="width-100-100 p-top-80 wow animate__animated animate__zoomInUp" data-wow-duration="1.5s"
+                    data-wow-delay=".2">
             </div>
         </div>
     </section>
@@ -61,8 +69,9 @@
                 </p>
             </div>
             <div class="media__center">
-                <img src="/assets/images/digital03.svg" alt="" class="width-100-100 p-top-80 wow animate__animated animate__zoomInUp"
-                    data-wow-duration="1.5s" data-wow-delay=".2">
+                <img src="/assets/images/digital03.svg" alt=""
+                    class="width-100-100 p-top-80 wow animate__animated animate__zoomInUp" data-wow-duration="1.5s"
+                    data-wow-delay=".2">
             </div>
 
         </div>
@@ -94,7 +103,8 @@
             </div>
 
 
-            <div class="row-2-10  wow animate__animated animate__fadeInRightBig" data-wow-duration="1.5s" data-wow-delay=".2"">
+            <div class="row-2-10  wow animate__animated animate__fadeInRightBig" data-wow-duration="1.5s"
+                data-wow-delay=".2"">
                 <div class="steps__area--img">
                     <img src="/assets/images/services/step02.svg" alt="" />
                 </div>
@@ -109,7 +119,8 @@
                 </div>
             </div>
 
-            <div class="row-2-10  wow animate__animated animate__fadeInLeftBig" data-wow-duration="1.5s" data-wow-delay=".2"">
+            <div class="row-2-10  wow animate__animated animate__fadeInLeftBig" data-wow-duration="1.5s"
+                data-wow-delay=".2"">
                 <div class="steps__area--img">
                     <img src="/assets/images/services/step03.svg" alt="" />
                 </div>
@@ -129,7 +140,8 @@
                 </div>
             </div>
 
-            <div class="row-2-10  wow animate__animated animate__fadeInRightBig" data-wow-duration="1.5s" data-wow-delay=".2"">
+            <div class="row-2-10  wow animate__animated animate__fadeInRightBig" data-wow-duration="1.5s"
+                data-wow-delay=".2"">
                 <div class="steps__area--img">
                     <img src="/assets/images/services/step04.svg" alt="" />
                 </div>
@@ -144,7 +156,8 @@
                 </div>
             </div>
 
-            <div class="row-2-10  wow animate__animated animate__fadeInLeftBig" data-wow-duration="1.5s" data-wow-delay=".2"">
+            <div class="row-2-10  wow animate__animated animate__fadeInLeftBig" data-wow-duration="1.5s"
+                data-wow-delay=".2"">
                 <div class="steps__area--img">
                     <img src="/assets/images/services/step05.svg" alt="" />
                 </div>

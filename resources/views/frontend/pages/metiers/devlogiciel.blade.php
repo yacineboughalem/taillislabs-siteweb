@@ -2,6 +2,13 @@
 
 
 @section('metatags')
+    <meta name="description"
+        content="Taillis Labs est une entreprise de conseil en transformation numérique et de création de solutions digitales qui répondent parfaitement à vos problématiques d’entreprise et qui vous aide à faire face à tous les défis qui peuvent apparaître au cours de votre évolution numérique." />
+    <meta name="keywords" content="" />
+    <meta name="copyright" content="taillislabs.com" />
+    <meta name="url" content="taillislabs.com" />
+    <meta name="identifier-URL" content="taillislabs.com" />
+
     <meta itemprop="image" content="https://taillislabs.com/logo2.png" />
     <meta property="og:image" itemprop="image/*" content="https://taillislabs.com/logo2.png" />
     <meta property="og:image:width" content="256" />
@@ -24,12 +31,14 @@
         <div class="container">
             <div class="breadcrumb__wrapper--content2">
                 <h1>
-                    {{ __('taillis.softwareDevT1')}}
+                    {{ __('taillis.softwareDevT1') }}
                 </h1>
             </div>
 
             <div class="media__center">
-                <img cl src="/assets/images/services/logiciel/dev-log-02.svg" alt="" class="width-60-100 p-top-80 wow animate__animated animate__zoomInUp" data-wow-duration="1.5s" data-wow-delay=".2">
+                <img cl src="/assets/images/services/logiciel/dev-log-02.svg" alt=""
+                    class="width-60-100 p-top-80 wow animate__animated animate__zoomInUp" data-wow-duration="1.5s"
+                    data-wow-delay=".2">
             </div>
         </div>
     </section>
@@ -42,24 +51,26 @@
 
             <div class="heading__primary p-bottom-80">
                 <h2 class="wow" data-splitting="">
-                    <span class="color"> {{ __('taillis.softwareDevT2')}}</span>
+                    <span class="color"> {{ __('taillis.softwareDevT2') }}</span>
                 </h2>
             </div>
 
             <div class="content">
                 <p class="p__white">
-                    {{ __('taillis.softwareDevP1')}}
+                    {{ __('taillis.softwareDevP1') }}
                 </p>
             </div>
             <div class="media__center">
-                <img src="/assets/images/services/logiciel/dev-log-01.svg" alt="" class="p-top-80 p-bottom-80 width-60-100 wow animate__animated animate__fadeInRight" data-wow-duration="1.5s" data-wow-delay=".2">
+                <img src="/assets/images/services/logiciel/dev-log-01.svg" alt=""
+                    class="p-top-80 p-bottom-80 width-60-100 wow animate__animated animate__fadeInRight"
+                    data-wow-duration="1.5s" data-wow-delay=".2">
             </div>
             <div class="content">
                 <p class="p__white">
-                    {{ __('taillis.softwareDevP2')}}
+                    {{ __('taillis.softwareDevP2') }}
                 </p>
                 <p class="p__white">
-                    {{ __('taillis.softwareDevP3')}}
+                    {{ __('taillis.softwareDevP3') }}
                 </p>
             </div>
 
@@ -70,7 +81,7 @@
         <div class="container">
             <div class="heading__primary p-bottom-80">
                 <h2 class="wow" data-splitting="">
-                    {{ __('taillis.softwareDevStepTitle')}}
+                    {{ __('taillis.softwareDevStepTitle') }}
                 </h2>
             </div>
 
@@ -82,7 +93,7 @@
                 <div class="steps__area--content">
                     <div class="steps__area--content--head">
                         <img src="/assets/images/services/step-num1.svg" alt="" />
-                        <h3>{{ __('taillis.softwareDevStep1T')}}</h3>
+                        <h3>{{ __('taillis.softwareDevStep1T') }}</h3>
                     </div>
                     <div class="steps__area--content--short">
                         <p>{{ __('taillis.softwareDevStep1P') }}</p>
@@ -91,7 +102,8 @@
             </div>
 
 
-            <div class="row-2-10  wow animate__animated animate__fadeInRightBig" data-wow-duration="1.5s" data-wow-delay=".2"">
+            <div class="row-2-10  wow animate__animated animate__fadeInRightBig" data-wow-duration="1.5s"
+                data-wow-delay=".2"">
                 <div class="steps__area--img">
                     <img src="/assets/images/services/logiciel/log-step-02.svg" alt="" />
                 </div>
@@ -106,7 +118,8 @@
                 </div>
             </div>
 
-            <div class="row-2-10  wow animate__animated animate__fadeInLeftBig" data-wow-duration="1.5s" data-wow-delay=".2"">
+            <div class="row-2-10  wow animate__animated animate__fadeInLeftBig" data-wow-duration="1.5s"
+                data-wow-delay=".2"">
                 <div class="steps__area--img">
                     <img src="/assets/images/services/logiciel/log-step-03.svg" alt="" />
                 </div>
@@ -124,7 +137,8 @@
                 </div>
             </div>
 
-            <div class="row-2-10  wow animate__animated animate__fadeInRightBig" data-wow-duration="1.5s" data-wow-delay=".2"">
+            <div class="row-2-10  wow animate__animated animate__fadeInRightBig" data-wow-duration="1.5s"
+                data-wow-delay=".2"">
                 <div class="steps__area--img">
                     <img src="/assets/images/services/logiciel/log-step-04.svg" alt="" />
                 </div>
@@ -139,7 +153,8 @@
                 </div>
             </div>
 
-            <div class="row-2-10  wow animate__animated animate__fadeInLeftBig" data-wow-duration="1.5s" data-wow-delay=".2"">
+            <div class="row-2-10  wow animate__animated animate__fadeInLeftBig" data-wow-duration="1.5s"
+                data-wow-delay=".2"">
                 <div class="steps__area--img">
                     <img src="/assets/images/services/logiciel/log-step-05.svg" alt="" />
                 </div>
