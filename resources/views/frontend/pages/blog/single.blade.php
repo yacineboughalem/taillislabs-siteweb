@@ -27,7 +27,7 @@
                 <h1>
                     {{ $post->title }}
                 </h1>
-                <p class="short">{{ $post->short }}</p>
+                {{-- <p class="short">{{ $post->short }}</p> --}}
             </div>
         </div>
     </div>

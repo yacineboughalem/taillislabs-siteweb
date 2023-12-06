@@ -18,13 +18,13 @@
 
         h1,
         h2 {
-            font-size: clamp(32px, 6vw, 48px);
-            line-height: clamp(40px, 6vw, 56px);
+            font-size: clamp(32px, 6vw, 40px);
+            line-height: clamp(40px, 6vw, 48px);
             animation-duration: 1s;
             animation-delay: 1.5s;
             font-weight: 700;
             margin-bottom: 0;
-            color: $c-main;
+            color: $c-white;
 
             span {
                 // text-shadow: -1px 0 $c-second, 0 1px $c-second, 1px 0 $c-second, 0 -1px $c-second;
