@@ -7,7 +7,7 @@
                 </ul>
             </div>
             <div class=" logo ">
-                <img src="/assets/images/logo-ts.svg">
+                <img src="/assets/images/logots.svg">
             </div>
             <div class=" copyright ">
                 <p>© <?php echo date('Y'); ?>. All rights reserved.</p>

@@ -5,7 +5,7 @@
         <div class="row">
             <div class="header__area--logo">
                 <a href="{{ route('home') }}">
-                    <img src="/assets/images/tslogo.svg" alt="">
+                    <img src="/assets/images/logots.svg" alt="">
                 </a>
             </div>
 

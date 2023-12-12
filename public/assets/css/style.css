@@ -1486,12 +1486,12 @@ body {
   position: relative;
 }
 .header__area--logo img {
-  height: 60px;
+  height: 40px;
   transition: transform ease-in 0.4s;
 }
 @media (max-width: 1024px) {
   .header__area--logo img {
-    height: 40px;
+    height: 36px;
     width: auto;
   }
 }
@@ -4026,6 +4026,9 @@ img {
 .taillis-footer-area .logo {
   width: 33%;
   text-align: center;
+}
+.taillis-footer-area .logo img {
+  height: 40px;
 }
 @media (max-width: 700px) {
   .taillis-footer-area .logo {
