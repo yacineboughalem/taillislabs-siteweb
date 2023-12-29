@@ -94,14 +94,14 @@
         selector: '.textarea',
         height: 700,
         relative_urls: false,
-        // plugins: [
-        //     'codesample code', 'a11ychecker', 'advlist', 'advcode', 'advtable', 'autolink', 'checklist',
-        //     'export',
-        //     'lists', 'link', 'image', 'charmap', 'preview', 'anchor', 'searchreplace', 'visualblocks',
-        //     'powerpaste', 'fullscreen', 'formatpainter', 'insertdatetime', 'media', 'table', 'help', 'wordcount'
-        // ],
-        plugins: 'codesample code',
-        toolbar: 'codesample code a11ycheck addcomment showcomments casechange checklist code export formatpainter image editimage pageembed permanentpen table tableofcontents undo redo | casechange blocks | bold italic backcolor | \
+        plugins: [
+            'codesample code', 'a11ychecker', 'advlist', 'advcode', 'advtable', 'autolink', 'checklist',
+            'export',
+            'lists', 'link', 'image', 'charmap', 'preview', 'anchor', 'searchreplace', 'visualblocks',
+            'powerpaste', 'fullscreen', 'formatpainter', 'insertdatetime', 'media', 'table', 'help', 'wordcount'
+        ],
+        // plugins: 'codesample code',
+        toolbar: 'codesample code lists advlist a11ycheck addcomment showcomments casechange checklist code export formatpainter image editimage pageembed permanentpen table tableofcontents undo redo | casechange blocks | bold italic backcolor | \
   alignleft aligncenter alignright alignjustify | \
   bullist numlist checklist outdent indent | removeformat | a11ycheck code table help',
         toolbar_mode: 'floating',
