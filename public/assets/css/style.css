@@ -5211,6 +5211,8 @@ img {
 .news__area--body .p__main > * {
   line-height: 32px;
   color: #23252f;
+  font-size: clamp(14px, 4vw, 16px);
+  line-height: clamp(24px, 3vw, 32px);
 }
 .news__area--body ul {
   list-style: square;

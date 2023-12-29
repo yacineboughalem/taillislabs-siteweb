@@ -137,6 +137,8 @@
         .p__main > * {
             line-height: 32px;
             color: $c-text;
+            font-size: clamp(14px, 4vw, 16px);
+            line-height: clamp(24px, 3vw, 32px);
         }
 
         ul {
